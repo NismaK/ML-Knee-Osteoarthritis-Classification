@@ -1,4 +1,3 @@
-# ML-Knee-Osteoarthritis-Classification
 # 🧠 ML-Based Automatic Classification of Knee Osteoarthritis Severity using Gait Data and Radiographic Images  
 ### *(Project Code: PCS25-041)*  
 
